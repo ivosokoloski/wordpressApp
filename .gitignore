@@ -1,0 +1,17 @@
+# WordPress core - не пуштај
+/wp-admin/
+/wp-includes/
+
+# Конфигурација
+wp-config.php
+
+# Медија фајлови ако не сакаш големи upload-и
+/wp-content/uploads/
+
+# Cache / логови
+*.log
+*.sql
+
+# Системски фајлови
+.DS_Store
+Thumbs.db
