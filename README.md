@@ -1,20 +1,17 @@
-# WordPress Апликација
+# WordPress Application
 
-Ова е WordPress апликација каде што на Git е додаден само дел од содржината поради големината на целата апликација. За целосен преглед и интеракција со веб страницата, може да се пристапи на следниот линк: [WordPress апликација](https://user34.delovna.finki.ukim.mk/).
+This is a WordPress application where only part of the content is added on Git due to the size of the full application. For full viewing and interaction with the website, you can access the following link: [WordPress Application](https://user34.delovna.finki.ukim.mk/).
 
-## Опис
-Апликацијата е изградена на WordPress и користи многу plugins за подобрување на функционалноста и корисничкото искуство. Целта е да се обезбеди динамична и лесна за управување веб страница, каде што содржината може да се менува без потреба од кодирање.
+## Description
+The application is built on WordPress and uses many plugins to enhance functionality and user experience. The goal is to provide a dynamic and easy-to-manage website where content can be modified without coding.
 
-## Карактеристики
-- **Лесна за користење** – Едноставно додавање, уредување и бришење на содржина преку WordPress интерфејс.
-- **Множество plugins** – Оптимизација, SEO, безбедност и интерактивни функционалности.
-- **Модуларна структура** – Содржината е организирана преку страници, категории и widgets.
-- **Прилагодлив дизајн** – Responsive тема која изгледа добро на мобилни и десктоп уреди.
+## Features
+- **Easy to use** – Simple addition, editing, and deletion of content through the WordPress interface.
+- **Multiple plugins** – Optimization, SEO, security, and interactive functionalities.
+- **Modular structure** – Content is organized through pages, categories, and widgets.
+- **Customizable design** – Responsive theme that looks good on both mobile and desktop devices.
 
-## Технички детали
-- WordPress платформа (PHP, MySQL)
-- Интегрирани различни plugins за подобрување на функционалностите
-- Само дел од content е достапен на GitHub поради големина
-
-## Линк за пристап
-[Прегледај ја целата апликација](https://user34.delovna.finki.ukim.mk/)
+## Technical Details
+- WordPress platform (PHP, MySQL)  
+- Integrated various plugins to enhance functionality  
+- Only part of the content is available on GitHub due to size
